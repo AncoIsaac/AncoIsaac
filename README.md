@@ -3,7 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;sobre mi 
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
 🌱 Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
@@ -26,8 +26,6 @@
 
 ### 👨‍💻 &nbsp;Projects
 <a href= https://quotes.grupomepiel.com.mx/ > quotes </a>
-
-### 🤝🏻 &nbsp;Connect with Me
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
