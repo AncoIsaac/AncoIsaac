@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 👨‍💻 &nbsp;Projects
-![quotes](https://quotes.grupomepiel.com.mx/)&nbsp;
+<a href= https://quotes.grupomepiel.com.mx/ > quotes </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
